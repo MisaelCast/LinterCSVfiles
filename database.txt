@@ -1,0 +1,5 @@
+nick,matricula,facu,carrera,promedio,edad,correo
+Martha,19760561,Inge,Computacion,87,24,l189243@ite.edu.mx
+1234,302032,Inge,Industrial,Setenta,22,al189243@ite.edu.mx
+Misael,204098,Inge,Computacion,92,23,al189243@ite.edu.mx
+Carlos,1298A,Inge,Mecatronica,100,21,al189243@ite.edu.mx

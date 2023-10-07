@@ -1,0 +1,3 @@
+Error en el renglón 2, columna 1: Se esperaba un valor alfabético
+Error en el renglón 2, columna 5: Se esperaba un valor numérico
+Error en el renglón 4, columna 2: Se esperaba un valor numérico
